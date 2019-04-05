@@ -14,4 +14,7 @@ Using the latest Bootstrap version to showcase grid functionality and other usef
 3. Simplifying a devs work
 HAML and SASS as code precompilers, which save a lot of (redundant) code. SimpleForms gem (which works nicely with Bootstrap) produces forms with less code than base. This branches' output will look the same to the user, but its a foundation to save code and makes working on it easier when you get used to it.
 
-4. More features to come, that I want to have while coding previous steps
+4. React Frontend
+Showcasing one-page app with Rails APIs
+
+5. More features to come, that I want to have while coding previous steps
